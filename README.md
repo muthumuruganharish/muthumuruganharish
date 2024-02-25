@@ -28,5 +28,7 @@ I'm a web developer currently studying at Meenakshi College of Engineering in Ch
 - [LinkedIn](your-linkedin-profile)
 - [Portfolio Website](your-portfolio-website)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muthumuruganharish&show_icons=true&theme=radical)
+
 Feel free to explore my repositories and provide feedback! 😊
 

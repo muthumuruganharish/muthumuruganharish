@@ -7,7 +7,7 @@ Frontend developer
 I'm genuinely passionate about becoming a full-stack developer. Currently, I'm focused on honing my skills as a frontend developer.
 
 * 🌍  I'm based in chennai
-* ✉️  You can contact me at [muthumuruganharish272003@gmail.com](mailto:muthumuruganharish272003@gmail.com)
+* ✉️  You can contact me at [muthumuruganharish426@gmail.com](mailto:muthumuruganharish426@gmail.com)
 * 🧠  I'm learning javascript and css frameworks
 
 <a href="https://www.github.com/muthumuruganharish" target="_blank" rel="noreferrer"><img

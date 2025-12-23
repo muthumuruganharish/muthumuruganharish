@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is harish!!
 ================================================================================================================================
 
-Frontend developer
+Web  developer
 ------------------
 # 💫 About Me:
- Hi 👋, I'm Muthu Murugan Harish  <br><br>🎓 B.Tech Information Technology student from Chennai, India  <br>💻 Aspiring Software Engineer with a strong interest in Full Stack Development  <br>🌱 Currently learning Java, Data Structures, and Web Technologies  <br>🎯 Actively preparing for IT company placements
+🎓 B.Tech Information Technology student from Chennai, India  <br>💻 Aspiring Software Engineer with a strong interest in Full Stack Development  <br>🌱 Currently learning Java, Data Structures, and Web Technologies  <br>🎯 Actively preparing for IT company placements
 
 
 ## 🌐 Socials:

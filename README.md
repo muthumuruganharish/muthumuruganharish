@@ -20,8 +20,8 @@ Web  developer
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muthumuruganharish&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-"If you want to shine like a sun, first burn like a sun.”
+### ✍️  Quote:
+"If you want to shine like a sun, first burn like a sun.”\n
 — A. P. J. Abdul Kalam
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=muthumuruganharish&limit=5&theme=dark&combine_all_yearly_contributions=true)

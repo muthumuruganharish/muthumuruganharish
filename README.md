@@ -13,6 +13,7 @@ Web  developer
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 # 📊 GitHub Stats
+<!--
 ![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muthumuruganharish&show_icons=true&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=muthumuruganharish&theme=dark)
@@ -22,7 +23,7 @@ Web  developer
 <!--# 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=muthumuruganharish&theme=flat&no-frame=true)-->
 
-![Stats](https://github-readme-stats.vercel.app/api?username=muthumuruganharish&show_icons=true)
+<!--![Stats](https://github-readme-stats.vercel.app/api?username=muthumuruganharish&show_icons=true) -->
 
 ![](https://github-readme-stats.vercel.app/api?username=muthumuruganharish&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=muthumuruganharish&theme=dark&hide_border=false)<br/>

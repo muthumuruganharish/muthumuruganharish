@@ -12,16 +12,24 @@ Web  developer
 
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-## 📊 GitHub Stats
+# 📊 GitHub Stats
+![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muthumuruganharish&show_icons=true&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=muthumuruganharish&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muthumuruganharish&layout=compact&theme=dark)
+
+# 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=muthumuruganharish&theme=flat&no-frame=true)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=muthumuruganharish&show_icons=true)
 
 <!--[](https://github-readme-stats.vercel.app/api?username=muthumuruganharish&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=muthumuruganharish&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muthumuruganharish&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=muthumuruganharish&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=muthumuruganharish&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
 
 ### ✍️  Quote:
 "If you want to shine like a sun, first burn like a sun.”

@@ -19,8 +19,8 @@ Web  developer
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muthumuruganharish&layout=compact&theme=dark)
 
-# 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=muthumuruganharish&theme=flat&no-frame=true)
+<!--# 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=muthumuruganharish&theme=flat&no-frame=true)-->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=muthumuruganharish&show_icons=true)
 
